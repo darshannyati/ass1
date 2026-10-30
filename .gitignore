@@ -7,4 +7,3 @@ __pycache__/
 rag/index/
 reports/traces/*.jsonl
 venv/
-assignment1.mp4
